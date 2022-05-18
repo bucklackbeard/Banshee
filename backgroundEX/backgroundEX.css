@@ -1,0 +1,21 @@
+.제목 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-style: italic;
+    font-style:"text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;" ;
+}
+
+.메인글 {
+    font-size: 80px;
+}
+
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('b.jpg');
+    height: 100%;
+    
+    }
